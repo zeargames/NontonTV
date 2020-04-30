@@ -8,14 +8,14 @@ Nonton siaran televisi dimana aja dan kapan aja, asalkan kuota banyak & internet
 - bebas iklan
 - tampilan simpel, tdk butuh banyak interaksi
 - otomatis mencoba putar kembali jika tayangan putus/error
-- opsi jalankan aplikasi saat boot
-- opsi otomatis putar terakhir dilihat saat menjalankan aplikasi
+- [pengaturan] jalankan aplikasi saat booting
+- [pengaturan] otomatis putar terakhir dilihat saat menjalankan aplikasi
 
 
 ## Screenshots
-![potrait](https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115720.jpg)
-![landscape](https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115727.jpg)
-![player](https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115735.jpg)
+[<img src="https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115720.jpg" width=160>](https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115720.jpg)
+[<img src="https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115727.jpg" width=320>](https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115727.jpg)
+[<img src="https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115735.jpg" width=320>](https://github.com/hariimurti/NontonTV/blob/master/screenshot/20200412-115735.jpg)
 
 
 ## Thanks to
@@ -26,5 +26,5 @@ Nonton siaran televisi dimana aja dan kapan aja, asalkan kuota banyak & internet
 
 
 ## Notes
-- *untuk akses opsi seting gunakan tombol menu dihp maupun remote.*
+- *untuk akses pengaturan gunakan tombol menu dihp maupun remote.*
 - *bantu mengupdate siaran [disini](https://github.com/hariimurti/NontonTV/blob/master/json/playlist.json), menggunakan soft [iptv.manager](https://github.com/hariimurti/NontonTV/releases/download/v1.0/IPTV.Manager.zip).*
